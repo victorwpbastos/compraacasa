@@ -11,8 +11,9 @@ app.engine('html', hbs.express4({
 	extname: '.html'
 }));
 
-app.get('/anuncie_seu_imovel', function (req, res) {
-	res.render('anuncie_seu_imovel');
+app.get('*', function (req, res) {
+	var page = req.url.replace('/', '');
+	res.render(page);
 });
 
 app.listen(3000, function () {

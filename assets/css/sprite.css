@@ -1,0 +1,30 @@
+.logo-amex, .logo-aura, .logo-bancodobrasil, .logo-banrisul, .logo-boleto,
+.logo-bradesco, .logo-brasilcard, .logo-diners, .logo-elo, .logo-fortbrasil,
+.logo-hipercard, .logo-hsbc, .logo-itau, .logo-mastercard, .logo-oipaggo,
+.logo-pagseguro, .logo-paypal, .logo-personalcard, .logo-pleno, .logo-visa,
+.logo-facebook, .logo-google, .logo-twitter
+{ display: inline-block; background: url('../img/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.logo-amex { background-position: -5px -0px; width: 48px; height: 32px; }
+.logo-aura { background-position: -5px -37px; width: 48px; height: 32px; }
+.logo-bancodobrasil { background-position: -5px -74px; width: 48px; height: 32px; }
+.logo-banrisul { background-position: -5px -111px; width: 48px; height: 32px; }
+.logo-boleto { background-position: -5px -148px; width: 48px; height: 32px; }
+.logo-bradesco { background-position: -5px -185px; width: 48px; height: 32px; }
+.logo-brasilcard { background-position: -5px -222px; width: 48px; height: 32px; }
+.logo-diners { background-position: -5px -259px; width: 48px; height: 32px; }
+.logo-elo { background-position: -5px -296px; width: 48px; height: 32px; }
+.logo-fortbrasil { background-position: -5px -333px; width: 48px; height: 32px; }
+.logo-hipercard { background-position: -5px -370px; width: 48px; height: 32px; }
+.logo-hsbc { background-position: -5px -407px; width: 48px; height: 32px; }
+.logo-itau { background-position: -5px -444px; width: 48px; height: 32px; }
+.logo-mastercard { background-position: -5px -481px; width: 48px; height: 32px; }
+.logo-oipaggo { background-position: -5px -518px; width: 48px; height: 32px; }
+.logo-pagseguro { background-position: -5px -555px; width: 48px; height: 32px; }
+.logo-paypal { background-position: -5px -592px; width: 48px; height: 32px; }
+.logo-personalcard { background-position: -5px -629px; width: 48px; height: 32px; }
+.logo-pleno { background-position: -5px -666px; width: 48px; height: 32px; }
+.logo-visa { background-position: -5px -703px; width: 48px; height: 32px; }
+.logo-facebook { background-position: -5px -740px; width: 32px; height: 32px; }
+.logo-google { background-position: -5px -777px; width: 32px; height: 32px; }
+.logo-twitter { background-position: -5px -814px; width: 32px; height: 32px; }
