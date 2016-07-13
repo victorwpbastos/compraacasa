@@ -1,0 +1,73 @@
+@import url('/node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+/* general */
+html, body {
+	height: 100%;
+	font-family: Arial;
+}
+
+/* header */
+.header {
+	min-height: 100px;
+	margin: 0;
+	border: 0;
+	border-radius: 0;
+}
+
+/* menu */
+.menu {
+	min-height: 50px;
+	margin: 0;
+	border: 0;
+	border-radius: 0;
+}
+
+.menu li > a {
+	color: #f5f5f5 !important;
+}
+
+.menu li.active > a {
+	background: red !important;
+}
+
+/* main */
+.main {
+	min-height: calc(100% - 250px);
+}
+
+/* footer */
+.footer {
+	padding: 20px 0;
+	min-height: 100px;
+	margin: 0;
+	border: 0;
+	border-radius: 0;
+	color: #f5f5f5;
+}
+
+.footer-title {
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.title-red {
+	color: #b22222;
+}
+
+ul.footer-menu {
+	padding: 0 15px;
+	margin: 0;
+}
+
+ul.footer-menu a {
+	color: #ffffff;
+}
+
+.social-logo {
+	width: 25px;
+	margin-right: 10px;
+}
+
+.payment {
+	width: 30px;
+}
