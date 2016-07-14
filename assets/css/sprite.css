@@ -2,7 +2,7 @@
 .logo-bradesco, .logo-brasilcard, .logo-diners, .logo-elo, .logo-fortbrasil,
 .logo-hipercard, .logo-hsbc, .logo-itau, .logo-mastercard, .logo-oipaggo,
 .logo-pagseguro, .logo-paypal, .logo-personalcard, .logo-pleno, .logo-visa,
-.logo-facebook, .logo-google, .logo-twitter
+.logo-facebook, .logo-google, .logo-twitter, .logo-whatsapp
 { display: inline-block; background: url('../img/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
 
 .logo-amex { background-position: -5px -0px; width: 48px; height: 32px; }
@@ -28,3 +28,4 @@
 .logo-facebook { background-position: -5px -740px; width: 32px; height: 32px; }
 .logo-google { background-position: -5px -777px; width: 32px; height: 32px; }
 .logo-twitter { background-position: -5px -814px; width: 32px; height: 32px; }
+.logo-whatsapp { background-position: -5px -851px; width: 20px; height: 20px; }

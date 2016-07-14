@@ -64,3 +64,22 @@ ul.footer-menu a {
 .title-red {
 	color: #b22222;
 }
+
+.addon-whatsapp {
+	background: #ffffff;
+	border-left: 0;
+	padding: 5px;
+}
+
+.addon-whatsapp:first-of-type {
+	border-right: 0;
+	padding: 5px 0 5px 5px;
+}
+
+.addon-whatsapp [type="checkbox"] {
+	margin-top: 3px !important;
+}
+
+[type="checkbox"]:checked {
+	background: #b22222;
+}
