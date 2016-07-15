@@ -66,6 +66,15 @@ ul.footer-menu a {
 	color: #b22222;
 }
 
+.title-tomato {
+	color: tomato;
+}
+
+.bg-gray {
+	background: #eee;
+}
+
+/* addon whatsapp */
 .addon-whatsapp {
 	background: #ffffff;
 	border-left: 0;
@@ -83,4 +92,43 @@ ul.footer-menu a {
 
 [type="checkbox"]:checked {
 	background: #b22222;
+}
+
+/* card-anuncio */
+.card-anuncio-photo {
+	width: 100%;
+}
+
+.card-anuncio-title {
+	font-weight: bold;
+	color: #666;
+	text-align: center;
+}
+
+.card-anuncio-details {
+	color: #666;
+	text-align: center;
+}
+
+.card-anuncio-price {
+	font-weight: bold;
+	color: #b22222;
+	text-align: center;
+	font-size: 24px;
+}
+
+.card-anuncio-star {
+	font-size: 24px;
+	color: yellow;
+	position: absolute;
+	top: 10px;
+	right: 20px;
+}
+
+.card-anuncio-star-empty {
+	font-size: 24px;
+	color: #666;
+	position: absolute;
+	top: 10px;
+	right: 20px;
 }
