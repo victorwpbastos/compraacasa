@@ -13,7 +13,7 @@ app.engine('html', hbs.express4({
 
 app.get('*', function (req, res) {
 	var page = req.url.replace('/', '');
-	res.render(page);
+	res.render(page || 'home');
 });
 
 app.listen(3000, function () {
