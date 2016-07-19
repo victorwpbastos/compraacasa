@@ -151,3 +151,9 @@ ul.footer-menu a {
 	top: 10px;
 	right: 20px;
 }
+
+/* text-banner */
+.text-banner {
+	color: #b22222;
+	text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
+}
