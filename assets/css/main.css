@@ -157,3 +157,40 @@ ul.footer-menu a {
 	color: #b22222;
 	text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
 }
+
+/* row-anuncio */
+.row-anuncio {
+	display: table;
+	border: solid 1px #ccc;
+	border-radius: 4px;
+	width: 100%;
+}
+
+.block-anuncio {
+	display: table-cell;
+	border-right: solid 1px #ccc;
+	vertical-align: middle;
+	text-align: center;
+	background: #ddd;
+	color: #666;
+}
+
+.block-anuncio:first-of-type {
+	width: 150px;
+}
+
+.block-anuncio:nth-child(4) {
+	width: 100px;
+}
+
+.block-anuncio:nth-child(5) {
+	width: 120px;
+}
+
+.block-anuncio:last-of-type {
+	border-right: none;
+	width: 50px;
+	font-size: 24px;
+	color: yellow;
+	background: #c4c4c4;
+}
