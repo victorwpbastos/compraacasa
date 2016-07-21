@@ -202,3 +202,11 @@ ul.footer-menu a {
 	right: 5px;
 	font-size: 24px;
 }
+
+/* table-anuncios */
+.table-anuncios td {
+	vertical-align: middle !important;
+	color: #666;
+	padding: 0 !important;
+	background: #eee;
+}
