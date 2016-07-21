@@ -194,3 +194,11 @@ ul.footer-menu a {
 	color: yellow;
 	background: #c4c4c4;
 }
+
+/* icon-remove-photo */
+.icon-remove-photo {
+	position: absolute;
+	top: -10px;
+	right: 5px;
+	font-size: 24px;
+}
