@@ -210,3 +210,13 @@ ul.footer-menu a {
 	padding: 0 !important;
 	background: #eee;
 }
+
+/* box-login */
+.box-login {
+	box-shadow: 3px 3px 3px #666;
+}
+
+/* form labels */
+label.control-label {
+	color: #666;
+}
